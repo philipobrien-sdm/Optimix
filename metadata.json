@@ -1,0 +1,6 @@
+{
+  "name": "Resource Utilisation Maximiser",
+  "description": "An opportunistic dashboard for team managers to import team data, see gaps in expertise, block availability, schedule weekly topics, and maximize resource utilization using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
